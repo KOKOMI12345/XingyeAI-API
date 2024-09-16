@@ -1,5 +1,5 @@
 
-from .xingyeLogin import XingyeLogin, XingyeLoginUserData
+from .xingyeLogin import XingyeLogin
 from .xingyeWebsocket import XingyeWebsocket
 
-__all__ = ['XingyeLogin', 'XingyeLoginUserData', 'XingyeWebsocket']
+__all__ = ['XingyeLogin', 'XingyeWebsocket']
